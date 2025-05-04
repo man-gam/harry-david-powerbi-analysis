@@ -4,7 +4,7 @@ This Power BI project explores sales and performance data for Harry & David, foc
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](Power BI screenshot.png)
 
 ## 📈 Key Features
 
@@ -17,8 +17,7 @@ This Power BI project explores sales and performance data for Harry & David, foc
 ## 🔧 Tools & Technologies
 
 - **Power BI Desktop** – Data modeling, DAX measures, and dashboard creation
-- **DAX** – Custom calculations and KPIs
-- **Excel/CSV** – Source data (anonymized if applicable)
+- **Excel/CSV** – Campaign, Product, Market, Platform as a Source Data
 
 ## 📂 File
 
