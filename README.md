@@ -4,7 +4,7 @@ This Power BI project explores sales and performance data for Harry & David, foc
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](Images/Power BI screenshot.png)
+![Dashboard Screenshot](assets/Power%20BI%20screenshot.png)
 
 ## 📈 Key Features
 
